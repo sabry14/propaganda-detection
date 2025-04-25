@@ -1,4 +1,4 @@
-# 🧠 Propaganda Detection System
+## 🧠 Propaganda Detection System ##
 
 This project is an AI-powered web application developed during a training program with the **City of Scientific Research and Technological Applications (SRTA-City)**. It uses cutting-edge Natural Language Processing (NLP) models to detect propaganda in Arabic text.
 
