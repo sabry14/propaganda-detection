@@ -86,6 +86,3 @@ Special thanks to **SRTA-City** for the opportunity and guidance throughout this
 
 ---
 
-## 📎 License
-
-This project is open-source under the MIT License.
