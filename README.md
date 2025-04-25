@@ -54,7 +54,7 @@ Check out the demo video in the LinkedIn post!
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/propaganda-detection-system.git
+git clone https://github.com/sabry14/propaganda-detection.git
 cd propaganda-detection-system
 
 # Backend Setup
