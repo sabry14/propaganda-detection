@@ -75,7 +75,7 @@ npm start
 ## 👨‍💻 Team
 
 - Mohamed Sabry Abdelghany
-- Ahmed Mahdi
+- Ahmed Mohamed Mahdi 
 - Abdallah Abdelmalik
 
 ---
